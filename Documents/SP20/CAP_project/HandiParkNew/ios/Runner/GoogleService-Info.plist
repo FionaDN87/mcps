@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>950567022823-5nte13uv8hld9aufcjdokss5o6qt1ioq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.950567022823-5nte13uv8hld9aufcjdokss5o6qt1ioq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAV1vnxc3Khd3QkqIuOYrKFG-3n2b8FriY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>950567022823</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.uco.dnguyen40.bookreview</string>
+	<key>PROJECT_ID</key>
+	<string>map-bookreviewapp-c43dc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>map-bookreviewapp-c43dc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:950567022823:ios:c4e4f440e227b6cab7b242</string>
+	<key>DATABASE_URL</key>
+	<string>https://map-bookreviewapp-c43dc.firebaseio.com</string>
+</dict>
+</plist>

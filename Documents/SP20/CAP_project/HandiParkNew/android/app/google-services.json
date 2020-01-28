@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "809454986791",
+    "firebase_url": "https://handipark-a2f6a.firebaseio.com",
+    "project_id": "handipark-a2f6a",
+    "storage_bucket": "handipark-a2f6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809454986791:android:5c7b38683bb3a91c451002",
+        "android_client_info": {
+          "package_name": "edu.uco.dnguyen40.bookreview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809454986791-ujhq60na6365gjgvvijh0qt6n2b10n2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlninTbgGVl53ZAbknTpQ3mFWspUDQZ1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809454986791-ujhq60na6365gjgvvijh0qt6n2b10n2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
