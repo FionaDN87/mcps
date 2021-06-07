@@ -1,6 +1,7 @@
 import React, {Component } from 'react'
 import Header from './components/Header.js'
 import Body from './components/Body.js'
+import BorderRadius from './components/BorderRadius.js'
 import axios from 'axios'
 
 class App extends Component {
@@ -23,6 +24,7 @@ class App extends Component {
   render(){
   return (
     <div className="container">
+      <BorderRadius></BorderRadius>
       <Header></Header>
       <Body></Body>
     </div>
