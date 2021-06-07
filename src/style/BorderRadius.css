@@ -1,0 +1,17 @@
+.BorderRadius-Default{
+      border:black;
+      border-radius:10px;
+      border-width:1px;
+      width: 200px;
+      height: 25px; 
+}
+
+.BorderRadius-Drag{
+    border: 1px solid red;
+    border-radius:10px;
+    border-width:1px;
+    width: 200px;
+    height: 25px; 
+    background-color: rgb(102, 179, 102);
+
+}

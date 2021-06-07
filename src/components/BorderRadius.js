@@ -1,6 +1,7 @@
 import React from 'react';
 import Box from '@material-ui/core/Box';
 import { borderColor, color } from '@material-ui/system';
+import '../style/BorderRadius.css'
 
 const defaultProps = {
   bgcolor: 'background.paper',
@@ -17,8 +18,9 @@ export default function BorderRadius() {
   return (
     <div>
         <h1 style={{textAlign:"center"}}>Import File</h1>
-   
-      <div style={{textAlign:"center"}} 
+      <center><div className={`"BorderRadius-Default" 
+      ${highlighted ? "BorderRadius-Drag" : "BorderRadius-Default"}`} >
+      <div
         onDragEnter={()=>{
             setHighlighted(true);
         }}
@@ -41,7 +43,7 @@ export default function BorderRadius() {
       >
               DROP HERE (.csv)
         </div>
-      
+        </div> </center>
     </div>
   );
 }
