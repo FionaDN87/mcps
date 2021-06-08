@@ -1,8 +1,6 @@
 import React from 'react'
 import'../style/BorderRadius.css'
 import { parse } from 'papaparse'
-import { RemoveCircleOutlineRounded } from '@material-ui/icons';
-
 
 export default function BorderRadius() {
     const [highlighted, setHighlighted] = React.useState(false);
